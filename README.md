@@ -35,7 +35,7 @@ class Attributes(xnkit69):
 
 ```
 
-"If You Put Your Mind To It, You Can Accomplish Anything" - George McFly (Back to the Future)
+"If You Put Your Mind To It, You Can Accomplish Anything" - Ankit Kumar (Back to the Future)
 
 <!--
 **xnkit69/xnkit69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
