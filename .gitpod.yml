@@ -1,0 +1,9 @@
+tasks:
+  - name: Preview Server
+    command: python3 -m http.server 1337
+  - name: Terminal
+    command: gp open index.html
+
+ports:
+  - port: 1337
+    onOpen: open-preview
